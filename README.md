@@ -4,3 +4,4 @@
 Hướng dẫn sử dụng
 -------
 Trong thư mục AngularJs, mở file index.html bằng trình duyệt (Chrome, FireFox, IE ...)  là có thể sử dụng ứng dụng.
+https://duythanhlieu.github.io/maytinbotui/
